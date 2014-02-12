@@ -9,7 +9,9 @@ import scipy as sp
 import process_pos as pos
 import quats as qt
 
-from visual import *
+import visual
+
+#from visual import *
 import math
 
 def startup(m):
